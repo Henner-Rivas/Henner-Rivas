@@ -5,10 +5,11 @@ Actualmente, soy estudiante de ingeniera en telecomunicaciones e informatica y m
 
 🌱¿Qué estoy aprendiendo actualmente?
 
-1.Ingles
-2.NodeJS 
-3.Rest API
-4.Webpack
+Ingles
+NodeJS 
+Rest API
+Webpack
+
 
 🔭 Habilidades: PHP/ REACT / JS / HTML / CSS / BOOTSTRAP
 PROGRAMAS: EXCEL,FIGMA

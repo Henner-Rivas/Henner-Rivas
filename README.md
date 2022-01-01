@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola  👋, soy Henner Rivas Berrio
+  ¿Te gusta el desarrollo web?😄¡A mi también! Desde tecnologías Front-end hasta tenologías Back-end, tambien me gusta el deseño UI 
+Actualmente, soy estudiante de ingeniera en telecomunicaciones e informatica y me encuentro en el noveno semestre.
 
-<!--
-**Henner-Rivas/Henner-Rivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱¿Qué estoy aprendiendo actualmente?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.Ingles
+2.NodeJS 
+3.Rest API
+4.Webpack
+
+🔭 Habilidades: PHP/ REACT / JS / HTML / CSS / BOOTSTRAP
+PROGRAMAS: EXCEL,FIGMA

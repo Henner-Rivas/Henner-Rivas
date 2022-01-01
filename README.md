@@ -5,7 +5,8 @@ Actualmente, soy estudiante de ingeniera en telecomunicaciones e informatica y m
 
 🌱¿Qué estoy aprendiendo actualmente?
 
- #Ingles
+
+# Ingles
  #NodeJS 
  #Rest API
  #Webpack 

@@ -5,9 +5,7 @@ Actualmente, soy estudiante de ingeniera en telecomunicaciones e informatica y m
 
 #🌱¿Qué estoy aprendiendo actualmente?
 
-Ingles,
-NodeJs,
-Express
+Ingles, Nextjs
 
 Mi perfil en platzi: https://platzi.com/p/henner-rivas-berrio/
 

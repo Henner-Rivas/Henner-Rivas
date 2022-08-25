@@ -9,6 +9,7 @@ Ingles,
 NodeJs,
 Express
 
+Mi perfil en platzi: https://platzi.com/p/henner-rivas-berrio/
 
 ##🔭 Habilidades: 
 PHP/ REACT / JS / HTML / CSS / BOOTSTRAP /FIGMA / STYLED COMPONENTS

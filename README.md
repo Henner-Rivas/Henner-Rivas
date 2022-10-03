@@ -1,6 +1,5 @@
-### Hola  👋, soy Henner Rivas Berrio
+### Hola  👋, soy Henner Rivas Berrio ingeniero en telecomunicaciones e informatica.
   ¿Te gusta el desarrollo web?😄¡A mi también! Desde tecnologías Front-end hasta tenologías Back-end, tambien me gusta el deseño UI. 
-Actualmente, soy ingeniero en telecomunicaciones e informatica.
 
 
 #🌱¿Qué estoy aprendiendo actualmente?

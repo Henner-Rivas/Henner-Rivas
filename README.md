@@ -11,5 +11,5 @@ Mi perfil en platzi: https://platzi.com/p/henner-rivas-berrio/
 Mi sitio web : https://henner-rivas.vercel.app/
 
 ##🔭 Habilidades: 
-PHP/ REACT / JS / HTML / CSS / BOOTSTRAP /FIGMA / TypeScript / NODE.JS / EXPRESS / SCRUM/ WORDPRESS / ANGULAR 
+PHP/ Laravel/ REACT / JS / HTML / CSS / BOOTSTRAP /FIGMA / TypeScript / NODE.JS / EXPRESS / SCRUM/ WORDPRESS / ANGULAR 
 

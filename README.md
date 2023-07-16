@@ -1,4 +1,4 @@
-### Hola  👋, soy Henner Rivas Berrio ingeniero en telecomunicaciones e informatica en 109apps 
+### Hola  👋, soy Henner Rivas Berrio ingeniero en telecomunicaciones e informatica trabajo actualmente en  109apps 
   ¿Te gusta el desarrollo web?😄¡A mi también! Desde tecnologías Front-end hasta tenologías Back-end, tambien me gusta el deseño UI. 
 
 

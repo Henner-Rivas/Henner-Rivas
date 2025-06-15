@@ -10,7 +10,7 @@ Mi perfil en platzi: https://platzi.com/p/henner-rivas-berrio/
 
 Mi sitio web : https://henner-rivas.vercel.app/
 
-Mi perfil en lin : https://www.linkedin.com/in/henner-rivas/
+Mi perfil en linkedin : https://www.linkedin.com/in/henner-rivas/
 
 ¿Donde trabajo?
 Actualmente trabajo en 109APPS
